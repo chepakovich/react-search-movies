@@ -1,6 +1,6 @@
 # Search movies
 
-Seatch OMDb (API RESTful web service) to obtain movie information,
+Seatch OMDb (API RESTful web service) to obtain movie information.
 
 Here is a screenshot of the app:
 

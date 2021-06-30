@@ -21,7 +21,6 @@ export default function Search() {
     fetch(url)
       .then(resp => resp.json())
       .then(json => {
-        console.log("json:", json)
         setSearching(false)
         setSearchComplete(true)
         if (json.Response === "True") {
